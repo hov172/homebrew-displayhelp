@@ -1,6 +1,6 @@
 cask "displayhelp" do
-  version "0.7.2"
-  sha256 "cd973826afba36d1316d43ae0e886b26206f40e4bee31c9735fcedb24f273ac8"
+  version "0.7.3"
+  sha256 "fe2655e9bc9db9363e7c5a7c41e9a504c38c3f0bb87862b2ce4e487822bede13"
 
   url "https://github.com/hov172/DisplayHelp/releases/download/v#{version}/DisplayHelp-#{version}.pkg"
   name "DisplayHelp"
